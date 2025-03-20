@@ -1,2 +1,4 @@
 .venv
 .idea/
+expenses.db
+backend/__pycache__
